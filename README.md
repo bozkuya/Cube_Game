@@ -2,7 +2,11 @@
 
 Cubethon is a simple and fun game made with Unity and C#. Guide your cube forward and dodge obstacles to reach the finish line.
 
-![Game Screenshot](path/to/screenshot.png)  <!-- Replace 'path/to/screenshot.png' with your screenshot link -->
+![image](https://github.com/bozkuya/Cube_Game/assets/129911627/23e07051-2b93-44fa-b79f-33cbd2d9f88a)
+![image](https://github.com/bozkuya/Cube_Game/assets/129911627/93695b30-3422-461f-a578-8fb99d85f455)
+![image](https://github.com/bozkuya/Cube_Game/assets/129911627/7b05fab1-a0b9-4184-a98b-b66cf3b39ef5)
+
+
 
 ## Table of Contents
 
