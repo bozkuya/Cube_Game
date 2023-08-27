@@ -21,7 +21,7 @@ Cubethon is a simple and fun game made with Unity and C#. Guide your cube forwar
 
 1. Press the **'D'** key to move the cube to the right.
 2. Press the **'A'** key to move the cube to the left.
-3. Avoid falling! If the cube's y-position goes below -1, the game ends.
+3. Avoid falling! If the cube goes below platform, the game ends.
 4. Reach the end trigger to complete the level.
 
 ## Features
